@@ -25,3 +25,4 @@ Finally, the text files will be analyzed to detect the best optimal framework.
 project realized By:
         - EL KHAOUI MAROUA
         - TAIFOUR MOUAD
+        - AZOUGAY R'KIA
